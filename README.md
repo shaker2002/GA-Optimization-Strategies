@@ -97,5 +97,7 @@ So, the conclusion is that it is better to use the decision tree algorithm on th
 
 ## The results for every dataset is in the result csv file in the repo
 
+### I am proud to say that I did not use AI for this project. I did everything without even an internet connection.
+
 
 
